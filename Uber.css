@@ -1,0 +1,377 @@
+.header{
+    width: 1922px;
+    height: 65px;
+    background: black;
+    margin: -10px 0px 0px -10px;
+}
+.Folder1{
+    width: 1912px;
+    height: 700px;
+    background: #e8e8e8;
+}
+.TitleSuggest{
+    margin: 20px 0px 0px 250px;
+}
+.TitleSuggest h4{
+    font-family:system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 44px;
+}
+.RideContainer{
+    width: 400px;
+    height: 160px;
+    background: #e8e8e884;
+    margin: 0px 0px 0px 250px;
+}
+.titleRide {
+    margin: 0px 0px 0px 10px;
+    padding: 5px 0px 0px 10px;
+}
+.titleRide h4{
+    color: #000000;
+  font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 20px
+}
+.DescribtionRide {
+    margin: -10px 0px 0px 20px;
+}
+.DescribtionRide h4{
+    color: #000000;
+  font-family: system-ui, "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: normal;
+  font-size: 12px;
+  line-height: 20px;
+  margin-top: 8px;
+  margin-bottom: 8px;
+  padding-right: 8px;
+}
+.ButtonRide{
+    margin: 15px 0px 0px 15px;
+}
+.ButtonRide button{
+    padding: 10px 15px;
+    background: white;
+    color: black;
+    border-radius: 30px;
+    border: none;
+}
+.imgRide{
+    margin: -140px 0px 0px 230px;
+}
+.imgRide img{
+    width: 150px;
+}
+.RideWhereYouWant{
+    margin: 150px 0px 0px 250px;
+}
+.TitleRideWhereYouWant{
+margin: -550px 0px 0px 700px;
+}
+.TitleRideWhereYouWant h4{
+    font-family: "Poppins", serif;
+  font-weight: 500;
+  font-style: normal;
+  font-size: 45px;
+}
+.DescribtionRideWhereYouWant{
+    margin: -10px 0px 0px 700px;
+    }
+.DescribtionRideWhereYouWant h4{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+.buttonRideWhereYouWant{
+    margin: 30px 0px 0px 700px;
+
+}
+.buttonRideWhereYouWant button{
+    padding: 15px 30px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.TitleSignIn {
+    margin: -35px 0px 0px 850px;
+
+}
+.TitleSignIn a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.TitleSignIn a:hover{
+    text-decoration: underline;
+}
+.TitleReimagined{
+    margin: 350px 0px 0px 250px;
+    }
+.TitleReimagined h4{
+        font-family: "Poppins", serif;
+      font-weight: 500;
+      font-style: normal;
+      font-size: 45px;
+    }
+.DescribtionReimagined{
+    margin: -10px 0px 0px 250px;
+    }
+.DescribtionReimagined h4{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+.buttonReimagined{
+    margin: 30px 0px 0px 250px;
+
+}
+.buttonReimagined button{
+    padding: 15px 30px;
+    background: black;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    font-size: 15px;
+}
+.TitleReimaginedCheckOutSolution {
+    margin: -35px 0px 0px 420px;
+
+}
+.TitleReimaginedCheckOutSolution a{
+    text-decoration: none;
+    font-size: 15px;
+    color: black;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+
+.TitleReimaginedCheckOutSolution a:hover{
+    text-decoration: underline;
+}
+.imgRemagined {
+    margin: -450px 0px 0px 900px;
+}
+
+.TitleSaveuber{
+    margin: 350px 0px 0px 250px;
+}
+.TitleSaveuber h4{
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    font-style: normal;
+    font-size: 35px;
+}
+.ContantUSUber{
+    width: 1912px;
+    height: 350px;
+    background: #e8e8e8;
+    margin: 80px 0px -10px 0px;
+}
+
+.TitleContantUSUber{
+    margin: 0px 0px 0px 250px;
+    padding: 10px 0px 0px 0px;
+}
+.TitleContantUSUber h4{
+    font-size: 25px;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.CodeScanCamera{
+    width: 550px;
+    height: 180px;
+    background: white;
+    margin: 0px 0px 0px 250px;
+}
+.imgCodeScanCamera img{
+    margin: 15px 0px 0px 20px;
+}
+.TitleCodeScanCamera h4{
+    margin: -100px 0px 0px 200px;
+    font-size: 20px;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.DescribtionCodeScanCamera h4{
+    margin: 0px 0px 0px 200px;
+    font-size: 15px;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: #7171719c;
+}
+.CodeScanCamera1{
+    width: 550px;
+    height: 180px;
+    background: white;
+    margin: -180px 0px 0px 900px;
+}
+.Footer{
+    width: 1918px;
+    height: 900px;
+    background: black;
+    margin: 50px 0px 0px -10px;
+}
+.TitleFooter{
+    padding: 100px 0px 0px 280px;
+}
+.TitleFooter h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 20px;
+}
+.LinkFooter {
+    padding: 40px 0px 0px 280px;
+
+}
+.LinkFooter a{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+   text-decoration: none;
+}
+.LinkFooter a:hover{
+    
+   text-decoration: underline;
+}
+.TitleCompany{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleCompany h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listCompany ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listCompany ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+
+}
+.Product{
+    margin: -335px 0px 0px 280px;
+}
+.TitleProduct{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleProduct h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listProduct ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listProduct ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+  
+}
+
+.Global{
+    margin: -335px 0px 0px 550px;
+}
+.TitleGlobal{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleGlobal h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listGlobal ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listGlobal ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+  
+}
+
+.Travel{
+    margin: -215px 0px 0px 850px;
+}
+.TitleTravel{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleTravel h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listTravel ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listTravel ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+  
+}
+.SocialMediaIcon .fa-brands{
+    margin: 200px -180px 0px 280px;
+    color: white;
+}
+
+.PlayStore img{
+    width: 130px;
+    margin: 50px -260px 0px 280px;
+}
+.TitleFooterEnd h4{
+    color: rgb(120, 120, 120);
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 12px;
+   margin: 80px 0px 0px 280px;
+}

@@ -1,0 +1,611 @@
+.Contianer{
+    width: 1915px;
+    height: 1400px;
+    background: black;
+    margin: -30px 0px -5px -10px;
+}
+.header{
+    margin: -10px 0px 0px 340px;
+}
+.titleLogo h4{
+font-family: "Poppins", serif;
+font-weight: 300;
+font-style: normal;
+color: white;
+font-size: 20px;
+padding: 10px 0px 0px 0px;
+}
+.List{
+    margin: -70px 0px 0px 180px;
+}
+.List a{
+    text-decoration: none;
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 0px 30px 0px 0px;
+    font-size: 14px;
+}
+.ListRighSide{
+    margin: -30px 0px 0px 900px;
+
+}
+.ListRighSide a{
+    text-decoration: none;
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 0px 20px 0px 0px;
+    font-size: 14px;
+}
+
+.ListRighSide button{
+ padding: 8px 12px;
+ border-radius: 50px;
+ border: none;
+ font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.BenefitOfBusiness{
+margin: 150px 0px 0px 400px;
+}
+.TitleBenefitOfBusiness h4{
+    color: white;
+    font-size: 50px;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.DescribtionBenefitOfBusiness{
+    margin: -20px 0px 0px 0px;
+}
+.DescribtionBenefitOfBusiness h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.butonBenefitOfBusiness button{
+    color: black;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 15px;
+    font-size: 15px;
+    margin: 10px 0px 0px 0px;
+}
+.linkBenefitOfBusiness{
+    margin: -30px 0px 0px 200px;
+}
+.linkBenefitOfBusiness a{
+    color: white;
+    text-decoration: none;
+    border-bottom: 1px white solid;
+    padding: 0px 0px 5px 0px;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+}
+.imgBenefitOfBusniess{
+    margin: -500px 0px 0px 550px;
+}
+.GlobalPlatform{
+    margin: 30px 0px 0px 400px;
+}
+.TitleGlobalPlatform h4{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+    font-size: 35px;
+}
+.imgReduceCosts img{
+    width: 50px;
+}
+.TitleReduceCosts h4{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+}
+.DescribtionReduceCosts{
+    margin: -10px 0px 0px 0px;
+}
+.DescribtionReduceCosts h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    font-size: 14px;
+}
+.MeetGoal{
+    margin: -175px 0px 0px 600px;
+}
+.imgMeetGoal img{
+    width: 50px;
+}
+.TitleMeetGoal h4{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+}
+.DescribtionMeetGoal{
+    margin: -10px 0px 0px 0px;
+}
+.DescribtionMeetGoal h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    font-size: 14px;
+}
+.Provide{
+    margin: 50px 0px 0px 0px;
+}
+.imgProvide img{
+    width: 50px;
+}
+.TitleProvide h4{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+}
+.DescribtionProvide{
+    margin: -10px 0px 0px 0px;
+}
+.DescribtionProvide h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    font-size: 14px;
+}
+
+.Prioritize{
+    margin: -195px 0px 0px 600px;
+}
+.imgPrioritize img{
+    width: 50px;
+}
+.TitlePrioritize h4{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    color: white;
+}
+.DescribtionPrioritize{
+    margin: -10px 0px 0px 600px;
+}
+.DescribtionPrioritize h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    font-size: 14px;
+}
+
+.Companies{
+    margin: 50px 0px 0px 400px;
+}
+.TitleCompanies h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+    font-size: 30px;
+}
+.TitleBusinessTravel {
+    margin: 0px 0px 0px 40px;
+}
+.TitleBusinessTravel h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+.Courtesy{
+    margin: -290px 0px 0px 400px;
+}
+
+.TitleCourtesy {
+    margin: 0px 0px 0px 40px;
+}
+.TitleCourtesy h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+.MealPrograms{
+    margin: -290px 0px 0px 800px;
+}
+.TitleMealPrograms {
+    margin: 0px 0px 0px 40px;
+}
+.TitleMealPrograms h4{
+    font-family: "Poppins", serif;
+    font-weight: 100;
+    font-style: normal;
+    color: black;
+    font-size: 20px;
+}
+
+.HowDeliveryFood{
+    margin: 120px 0px 0px 340px;
+}
+.TitleHowDeliveryFood h4{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:30px;
+}
+.DescribtionHowDeliveryFood h4{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:14px;
+    color: gray;
+    margin: -10px 0px 0px 0px;
+}
+
+.AlreadyDelivery{
+    margin: 40px 0px 0px 340px;
+}
+
+.imgAlreadyDelivery img{
+    width: 360px;
+}
+.TitleAlreadyDelivery h4{
+    margin: -200px 0px 0px 450px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:18px;
+}
+.DescribtionAlreadyDelivery h4{
+    margin:10px 0px 0px 450px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    font-size: 15px;
+}
+.linkAlreadyDelivery {
+    margin:50px 0px 0px 450px;
+
+}
+.linkAlreadyDelivery a{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    font-size: 15px;
+    text-decoration: none;
+}
+.linkAlreadyDelivery a:hover{
+    
+
+    text-decoration: underline;
+}
+
+.LogIn{
+    margin: 150px 0px 0px 340px;
+}
+
+.imgLogIn img{
+    width: 360px;
+}
+.TitleLogIn h4{
+    margin: -200px 0px 0px 450px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:18px;
+}
+.DescribtionLogIn h4{
+    margin:10px 0px 0px 450px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    font-size: 15px;
+}
+
+.DeliverOrders{
+    margin: 160px 0px 0px 340px;
+}
+
+.imgDeliverOrders img{
+    width: 360px;
+}
+.TitleDeliverOrders h4{
+    margin: -200px 0px 0px 450px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size:18px;
+}
+.DescribtionDeliverOrders h4{
+    margin:10px 0px 0px 450px;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    color: gray;
+    font-size: 15px;
+}
+.EarnMoney{
+    margin: 140px 0px 0px 340px;
+}
+
+.Container2{
+    width: 1912px;
+    height: 850px;
+    margin: 150px 0px 0px 0px;
+    background: #f3f3f3;
+}
+.Join {
+    margin: 0px 0px 0px 350px;
+}
+.TitleJoin {
+    margin: 150px 0px 0px 200px;
+}
+.TitleJoin h4{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 35px;
+    padding: 50px 0px 0px 0px;
+    
+}
+.listImage{
+    margin: -20px 0px 0px 0px;
+}
+.DescribtionJoin {
+    margin: 120px 0px 0px 0px;
+}
+.DescribtionJoin h4{
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 15px;
+}
+.Video{
+    width: 650px;
+    height: 350px;
+    background: black;
+    margin: -350px 0px 0px 550px;
+}
+.Video video{
+    margin: 50px 0px 0px 90px;
+    width: 450px;
+}
+.BluePrint{
+    width: 1920px;
+    height: 300px;
+    background: #002661;
+    margin: 0px 0px 0px -10px;
+}
+.TitleBluePrint{
+padding: 40px 0px 0px 650px;
+}
+.TitleBluePrint h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 30px;
+}
+.butonBluePrint{
+    padding: 0px 0px 0px 830px;
+}
+.butonBluePrint button{
+    color: black;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    padding: 10px 15px;
+    font-size: 15px;
+    margin: 10px 0px 0px 0px;
+}
+.Interested{
+    margin: 0px 0px 0px 350px;
+}
+.TitleInteresed h4{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 30px;
+    margin: 50px 0px 0px 0px;
+}
+.HowtoReduce{
+    margin: 50px 0px 0px 0px;
+}
+
+.TitleHowtoReduce{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: gray;
+}
+.linkHowToReduce a{
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 15px;
+    color: gray;
+    border-bottom: 1px solid gray;
+    padding: 0px 5px 0px 0px;
+    text-decoration: none;
+}
+.HowtoReduce1{
+    margin: -495px 0px 0px 420px;
+}
+.HowtoReduce2{
+    margin: -495px 0px 0px 840px;
+}
+
+.Footer{
+    width: 1918px;
+    height: 900px;
+    background: black;
+    margin: 50px 0px -10px -10px;
+}
+.TitleFooter{
+    padding: 100px 0px 0px 280px;
+}
+.TitleFooter h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 20px;
+}
+.LinkFooter {
+    padding: 40px 0px 0px 280px;
+
+}
+.LinkFooter a{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+   text-decoration: none;
+}
+.LinkFooter a:hover{
+    
+   text-decoration: underline;
+}
+.TitleCompany{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleCompany h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listCompany ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listCompany ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+
+}
+.Product{
+    margin: -335px 0px 0px 280px;
+}
+.TitleProduct{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleProduct h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listProduct ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listProduct ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+  
+}
+
+.Global{
+    margin: -335px 0px 0px 550px;
+}
+.TitleGlobal{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleGlobal h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listGlobal ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listGlobal ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+  
+}
+
+.Travel{
+    margin: -215px 0px 0px 850px;
+}
+.TitleTravel{
+    padding: 40px 0px 0px 280px;
+
+}
+.TitleTravel h4{
+    color: white;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 15px;
+}
+.listTravel ul li{
+    padding: 10px 0px 0px 0px;
+    margin: 0px 0px 0px 240px;
+}
+.listTravel ul li a{
+    color: white;
+    text-decoration: none;
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+    font-size: 13px;
+  
+}
+.SocialMediaIcon .fa-brands{
+    margin: 200px -180px 0px 280px;
+    color: white;
+}
+
+.PlayStore img{
+    width: 130px;
+    margin: 50px -260px 0px 280px;
+}
+.TitleFooterEnd h4{
+    color: rgb(120, 120, 120);
+    font-family: "Poppins", serif;
+    font-weight: 300;
+    font-style: normal;
+   font-size: 12px;
+   margin: 80px 0px 0px 280px;
+}
